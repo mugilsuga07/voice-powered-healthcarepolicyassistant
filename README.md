@@ -110,11 +110,11 @@ A voice-enabled AI assistant that helps users query healthcare insurance policy 
 
 ## Sample Queries
 
-- "What is the deductible?"
-- "What is the out-of-pocket maximum?"
-- "Does this plan cover emergency room visits?"
-- "What is the copay for a specialist visit?"
-- "Is preventive care covered?"
+- What is the deductible?
+- What is the out-of-pocket maximum?
+- Does this plan cover emergency room visits?
+- What is the copay for a specialist visit?
+- Is preventive care covered?
 
 ## Key Implementation Details
 
@@ -131,14 +131,10 @@ A voice-enabled AI assistant that helps users query healthcare insurance policy 
 
 ### Query Preprocessing
 - Conversational filler is stripped for better retrieval accuracy
-- Common patterns like "Hey, my name is..." are removed
+
 
 ## Requirements
 
 - Python 3.10+
 - OpenAI API key
 - Microphone access (for voice input)
-
-## License
-
-MIT License
