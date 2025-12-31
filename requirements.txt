@@ -1,0 +1,22 @@
+# Voice-Powered Healthcare Insurance Policy Assistant
+# Step 0: Foundation dependencies
+
+# Core framework
+streamlit==1.40.2
+
+# Environment management
+python-dotenv==1.0.1
+
+# Step 1: Speech-to-Text
+openai==1.58.1
+
+# Step 2: RAG Pipeline
+langchain==0.3.14
+langchain-openai==0.3.0
+langchain-chroma==0.2.0
+chromadb==0.5.23
+pymupdf==1.25.1
+
+# Step 3: Text-to-Speech
+# (uses openai package from Step 1)
+
