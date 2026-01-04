@@ -1,0 +1,59 @@
+{
+  "ingested_at": "2025-12-30T16:49:30.329427",
+  "total_documents": 10,
+  "total_chunks": 476,
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "documents": [
+    {
+      "file": "SBC_9_BlueShield_Illinois.pdf",
+      "pages": 8,
+      "chunks": 46
+    },
+    {
+      "file": "SBC_1_healthcare.gov.pdf",
+      "pages": 2,
+      "chunks": 5
+    },
+    {
+      "file": "SBC_6_Sierra_Pacific.pdf",
+      "pages": 5,
+      "chunks": 40
+    },
+    {
+      "file": "SBC_5_Blue Cross.pdf",
+      "pages": 7,
+      "chunks": 45
+    },
+    {
+      "file": "SBC_4_Univ_Rochester.pdf",
+      "pages": 8,
+      "chunks": 51
+    },
+    {
+      "file": "SBC_3_AmeriHealth.pdf",
+      "pages": 15,
+      "chunks": 111
+    },
+    {
+      "file": "SBC_10_BlueShield_Oklahoma.pdf",
+      "pages": 8,
+      "chunks": 48
+    },
+    {
+      "file": "SBC_7_UCSF.pdf",
+      "pages": 8,
+      "chunks": 56
+    },
+    {
+      "file": "SBC_2_nationalhealthcouncil.pdf",
+      "pages": 10,
+      "chunks": 29
+    },
+    {
+      "file": "SBC_8_Independence.pdf",
+      "pages": 7,
+      "chunks": 45
+    }
+  ]
+}

@@ -31,8 +31,7 @@ ENV/
 env/
 .venv/
 
-# ChromaDB data (large binary files)
-data/chroma/
+# ChromaDB data - included for deployment
 
 # IDE
 .idea/
